@@ -69,6 +69,7 @@
     <Content Include="ChangeTemplate.html" />
     <Content Include="default.html" />
     <Content Include="img\callout.jpg" />
+    <Content Include="img\quran.jpg" />
     <Content Include="packages.config" />
     <Content Include="font-awesome\fonts\fontawesome-webfont.eot" />
     <Content Include="font-awesome\fonts\fontawesome-webfont.ttf" />
